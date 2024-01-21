@@ -1,2 +1,3 @@
-# This is a git test
-# One addition
+# This is a README 
+
+It has been updated by k.
